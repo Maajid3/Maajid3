@@ -1,3 +1,4 @@
+<!-- TOP WAVE ANIMATION -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&animation=fadeIn" />
 
 <div align="center">
@@ -77,7 +78,8 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maajid3&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maajid3&theme=tokyonight" />
+<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maajid3&theme=tokyonight" />
 
 </div>
 
@@ -155,4 +157,5 @@ I'm **open to new opportunities** — entry-level frontend roles, internships, o
 
 </div>
 
+<!-- BOTTOM WAVE ANIMATION -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer&animation=fadeIn" />
