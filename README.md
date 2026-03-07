@@ -5,6 +5,8 @@
 
 # Hi there, I'm **Maajid Ali** 👋
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="10%">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%9A%80;IoT+%2B+Full+Stack+Enthusiast+%F0%9F%8C%9F;Best+Paper+Publication+Award+Winner+%F0%9F%8F%86;Always+Learning+Something+New+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 <p>
@@ -15,6 +17,10 @@
 </p>
 
 </div>
+
+
+> [!IMPORTANT]
+> Some important repos are private. You can find demos in the [Featured Projects](#featured-projects) section below.
 
 ---
 
@@ -112,7 +118,7 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 
 ---
 
-### 🛒 E-Commerce Website
+### 🛒 E-Commerce Website [Live Demo](https://eshoe-app-bay.vercel.app/)
 > Full-stack shopping platform with product catalog, cart, user authentication & real-time database operations
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -122,7 +128,19 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 
 ---
 
-### 🌤️ Weather Forecast Application
+---
+
+### 🧑🏻‍💻 Portfolio [Live Demo](https://my-portfolio3-topaz.vercel.app/)
+> Full-stack shopping platform with product catalog, cart, user authentication & real-time database operations
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 🌤️ Weather Forecast Application [Live Demo](https://weather-app-mu-khaki-33.vercel.app/)
 > Responsive weather app with real-time forecasts via Open-Meteo API, built with React Hooks & accessibility best practices
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
