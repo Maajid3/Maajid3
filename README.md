@@ -20,7 +20,7 @@
 
 
 > [!IMPORTANT]
-> Some important repos are private. You can find demos in the [Featured Projects](#featured-projects) section below.
+> Some important repos are private. You can find demos in the [Featured Projects](#-featured-projects) section below.
 
 ---
 
