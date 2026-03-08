@@ -22,7 +22,7 @@
 > [!IMPORTANT]
 > Some important repos are private. You can find demos in the [Featured Projects](#-featured-projects) section below.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧑‍💻 About Me
 
@@ -44,7 +44,7 @@ looking_for: "Entry-level Frontend Developer role in an innovative team"
 fun_fact: "I debug with coffee ☕ and presented IoT research at international conferences 🎤"
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -78,7 +78,7 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 Most Used Languages
 
@@ -89,7 +89,7 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Highlights & Achievements
 
@@ -103,7 +103,7 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 | 📡 | **CCNA Certified** — Cisco Networking, 2025 |
 | 🐍 | **Python for Data Science** — NPTEL, 2024 |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🔥 Featured Projects
 
@@ -116,7 +116,7 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🛒 E-Commerce Website [Live Demo](https://eshoe-app-bay.vercel.app/)
 > Full-stack shopping platform with product catalog, cart, user authentication & real-time database operations
@@ -126,9 +126,7 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
----
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🧑🏻‍💻 Portfolio [Live Demo](https://my-portfolio3-topaz.vercel.app/)
 > Full-stack shopping platform with product catalog, cart, user authentication & real-time database operations
@@ -138,7 +136,7 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🌤️ Weather Forecast Application [Live Demo](https://weather-app-mu-khaki-33.vercel.app/)
 > Responsive weather app with real-time forecasts via Open-Meteo API, built with React Hooks & accessibility best practices
@@ -147,7 +145,7 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Open-Meteo API](https://img.shields.io/badge/Open--Meteo_API-00BFFF?style=flat)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### ✈️ Travel Destination Showcase
 > Interactive travel website with React Router navigation, reusable components & Supabase content management
@@ -156,7 +154,7 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📬 Let's Connect!
 
