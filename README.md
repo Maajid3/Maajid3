@@ -128,7 +128,7 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🧑🏻‍💻 Portfolio [Live Demo](https://my-portfolio3-topaz.vercel.app/)
+### 🧑🏻‍💻 Portfolio [Live Demo](https://www.maajidali.tech/)
 > Full-stack shopping platform with product catalog, cart, user authentication & real-time database operations
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
