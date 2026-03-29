@@ -79,7 +79,7 @@ fun_fact: "I debug with coffee ☕ and presented IoT research at international c
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
- 
+  
 ## 📊 Most Used Languages
 
 <div align="center">
