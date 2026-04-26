@@ -1,4 +1,4 @@
-<!-- TOP WAVE ANIMATION -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&animation=fadeIn" />
 
 <div align="center">
@@ -173,5 +173,4 @@ I'm **open to new opportunities** — entry-level frontend roles, internships, o
 
 </div>
 
-<!-- BOTTOM WAVE ANIMATION -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer&animation=fadeIn" />
