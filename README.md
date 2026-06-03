@@ -1,7 +1,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&animation=fadeIn" />
 
-<div align="center">
+<div align="center"> 
 
 # Hi there, I'm **Maajid Ali** 👋
 
